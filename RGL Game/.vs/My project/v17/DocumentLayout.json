@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Israel\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\israel\\my project\\assets\\rgl game\\scripts\\npcrandompatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\rgl game\\scripts\\npcrandompatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Israel\\My project\\assets\\rgl game\\scripts\\enemy\\randompatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\rgl game\\scripts\\enemy\\randompatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Israel\\My project\\assets\\rgl game\\scripts\\enemy\\enemyhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\rgl game\\scripts\\enemy\\enemyhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Israel\\My project\\assets\\rgl game\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\rgl game\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\israel\\my project\\assets\\rgl game\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\rgl game\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Israel\\My project\\assets\\rgl game\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\rgl game\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Israel\\My project\\assets\\rgl game\\scripts\\interactions\\npcbasicdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\rgl game\\scripts\\interactions\\npcbasicdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Israel\\My project\\assets\\rgl game\\scripts\\cameracontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\rgl game\\scripts\\cameracontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Israel\\My project\\assets\\rgl game\\scripts\\datainstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\rgl game\\scripts\\datainstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NPCRandomPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\NPCRandomPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\RGL Game\\Scripts\\NPCRandomPatrol.cs",
+              "ToolTip": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\NPCRandomPatrol.cs",
+              "RelativeToolTip": "Assets\\RGL Game\\Scripts\\NPCRandomPatrol.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T21:25:17.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\RGL Game\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\RGL Game\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T21:12:38.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraControler.cs",
+              "DocumentMoniker": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\CameraControler.cs",
+              "RelativeDocumentMoniker": "Assets\\RGL Game\\Scripts\\CameraControler.cs",
+              "ToolTip": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\CameraControler.cs",
+              "RelativeToolTip": "Assets\\RGL Game\\Scripts\\CameraControler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:55:59.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataInstance.cs",
+              "DocumentMoniker": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\DataInstance.cs",
+              "RelativeDocumentMoniker": "Assets\\RGL Game\\Scripts\\DataInstance.cs",
+              "ToolTip": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\DataInstance.cs",
+              "RelativeToolTip": "Assets\\RGL Game\\Scripts\\DataInstance.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:38:00.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandomPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\Enemy\\RandomPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\RGL Game\\Scripts\\Enemy\\RandomPatrol.cs",
+              "ToolTip": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\Enemy\\RandomPatrol.cs",
+              "RelativeToolTip": "Assets\\RGL Game\\Scripts\\Enemy\\RandomPatrol.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:37:16.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\RGL Game\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\RGL Game\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:25:38.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyHit.cs",
+              "DocumentMoniker": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\Enemy\\EnemyHit.cs",
+              "RelativeDocumentMoniker": "Assets\\RGL Game\\Scripts\\Enemy\\EnemyHit.cs",
+              "ToolTip": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\Enemy\\EnemyHit.cs",
+              "RelativeToolTip": "Assets\\RGL Game\\Scripts\\Enemy\\EnemyHit.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:02:15.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NPCBasicDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\Interactions\\NPCBasicDialog.cs",
+              "RelativeDocumentMoniker": "Assets\\RGL Game\\Scripts\\Interactions\\NPCBasicDialog.cs",
+              "ToolTip": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\Interactions\\NPCBasicDialog.cs",
+              "RelativeToolTip": "Assets\\RGL Game\\Scripts\\Interactions\\NPCBasicDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T21:06:01.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RGL Game\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Israel\\My project\\Assets\\RGL Game\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\RGL Game\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAYwJAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:20:42.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
